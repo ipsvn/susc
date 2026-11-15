@@ -1,6 +1,8 @@
 > [!NOTE]
 > This project hasn't been updated since like 2024, so it will definitely not work anymore. I just put it here to showcase it since it was previously private. It was also one of the first times I wrote C, so don't bully me too much please. 
 
+![screenshot showcasing the thing running](https://raw.githubusercontent.com/ipsvn/junk/refs/heads/master/susc.jpg)
+
 # susc
 
 susc is a reimplementation of the *Among Us* networking protocol, written in C.
