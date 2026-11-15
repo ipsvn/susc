@@ -1,0 +1,5 @@
+#pragma once
+
+#define SUSC_ERR_FAILED_ALLOC -0x5C01
+
+#define SUSC_ERR_FAILED_TODOERR -0x5CFF

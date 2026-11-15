@@ -1,0 +1,11 @@
+#pragma once
+
+enum susc_map_types
+{
+    SUSC_MAP_TYPES_SKELD = 0,
+    SUSC_MAP_TYPES_MIRAHQ = 1,
+    SUSC_MAP_TYPES_POLUS = 2,
+    SUSC_MAP_TYPES_DLEKS = 3,
+    SUSC_MAP_TYPES_AIRSHIP = 4,
+    SUSC_MAP_TYPES_FUNGLE = 5
+};

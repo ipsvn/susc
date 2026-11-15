@@ -1,0 +1,9 @@
+#pragma once
+
+enum susc_rules_presets
+{
+    SUSC_RULES_PRESETS_STANDARD = 0,
+    SUSC_RULES_PRESETS_STANDARDROLES = 1,
+    SUSC_RULES_PRESETS_FLASHLIGHT = 2,
+    SUSC_RULES_PRESETS_CUSTOM = 100
+};

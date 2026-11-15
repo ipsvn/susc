@@ -1,0 +1,16 @@
+#pragma once
+
+enum susc_gamemode
+{
+    SUSC_GAMEMODE_NONE,
+    SUSC_GAMEMODE_NORMAL,
+    SUSC_GAMEMODE_HIDENSEEK,
+    SUSC_GAMEMODE_NORMALFOOLS,
+    SUSC_GAMEMODE_SEEKFOOLS,
+};
+
+enum susc_special_gamemode
+{
+    SUSC_SPECIAL_GAMEMODE_NONE,
+    SUSC_SPECIAL_GAMEMODE_APRILFOOLS
+};
